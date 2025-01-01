@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell: attempting to find the maximum value in an empty list using the `maximum` function.  The `maximum` function throws an exception when given an empty list. The solution shows how to handle this situation gracefully.
